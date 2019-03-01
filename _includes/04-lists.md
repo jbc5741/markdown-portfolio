@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+1. Animals
+2. Vehicles
+3. Emojis
+   3a. Happy
+   3b. Sad
+   3c. Dumb
