@@ -1,1 +1,2 @@
-Replace this with your name, and include a header.
+# Resume
+## - Jesse Cox - jbc5741@gmail.com -
